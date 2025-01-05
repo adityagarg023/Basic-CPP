@@ -2,7 +2,7 @@
 Beginner-friendly C++ codes aligned with the CodeHelp playlist, designed to master programming fundamentals. Includes topics like syntax, OOP concepts, STL, and advanced techniques with examples. It is organized by topic for easy navigation.
 
 ## Topics Covered:
-- **Basic Syntax**: Conditionals, Loops, Operators, Switch Case
+- **Basic Syntax**: Conditionals, Loops, Operators,Decimal Binary Conversion, Switch Case
 - **Functions**: Function overloading, recursion
 - **STL**: Arrays, Vectors, Deque, List, Stack, Queue, Priority Queue, Sets, Maps
 
